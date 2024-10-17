@@ -1,6 +1,8 @@
 #Cara Menjalankan
 
 
+
+
 $ apt update && apt upgrade 
 
 $ pkg install git python
@@ -16,7 +18,10 @@ $ python -m pip install -r requirements.txt
 $ python FOLLINSTA_V1n.py
 
 
+
+
 #Mengupdate Scripta
+
 
 
 $ ls
